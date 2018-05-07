@@ -1,0 +1,2 @@
+# ros-tutorial-voice
+This tutorial briefly covers how to control a robot over voice command. The user can control the robot using voice command and the robot acknowledges back to the user through a text-to-speech system, after executing the control action.  E.g. Once the user ask the robot to "forward". The robot executes it and then sends a message over voice to the user saying the the "Requested action executed".
