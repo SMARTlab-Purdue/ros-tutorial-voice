@@ -1,0 +1,6 @@
+url: https://stream.watsonplatform.net/text-to-speech/api
+#Change user id and password as needed
+user: b16d5844-419e-45fc-8f64-2f09a28c2ea7
+password: n6vammFhrMlI
+chunk: 2048 # chunk in byte to send to pyaudio to create the sound (reponse from watson is streamed) ** don't touch if you don't know what you do **
+voice: en-US_MichaelVoice # voices can be found here: https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/text-to-speech/using.shtml#voices
