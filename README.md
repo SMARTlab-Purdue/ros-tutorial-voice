@@ -37,13 +37,17 @@ http://files.ubuntu-manual.org/manuals/getting-started-with-ubuntu/14.04e2/en_US
 
 # Tutorial
 
-* [Section 1: Installation of relevant dependencies/packages](https://github.com/SMARTlab-Purdue/ros-tutorial-gazebo-simulation/wiki/Sec.-1:-Installation-of-dependencies)
+* [Section 1: Installing required packages](https://github.com/SMARTlab-Purdue/ros-tutorial-voice/wiki/Sec.-1:-Installing-required-packages)
 
-* [Section 2: Driving Husky robot in Gazebo simulation](https://github.com/SMARTlab-Purdue/ros-tutorial-gazebo-simulation/wiki/Sec.-2:-Driving-the-Husky-robot-in-Gazebo)
+* [Section 2: Running the code](https://github.com/SMARTlab-Purdue/ros-tutorial-voice/wiki/Sec.-2:-Running-the-code)
 
-* [Section 3: Creating a custom robot and a custom sensor](https://github.com/SMARTlab-Purdue/ros-tutorial-gazebo-simulation/wiki/Sec.-3:-Creating-a-custom-robot-and-sensor-model)
+* [Section 3: Testing the voice response](https://github.com/SMARTlab-Purdue/ros-tutorial-voice/wiki/Sec.-3:-Testing-the-voice-response)
 
-* [Section 4: Creating a light sensor plugin in Gazebo](https://github.com/SMARTlab-Purdue/ros-tutorial-gazebo-simulation/wiki/Sec.-4:-Creating-a-light-sensor-plugin)
+* [Section 4: Everything together expalined](https://github.com/SMARTlab-Purdue/ros-tutorial-voice/wiki/Sec.-4:-Everything-together-expalined)
+
+* [Section 5: Troubleshooting](https://github.com/SMARTlab-Purdue/ros-tutorial-voice/wiki/Sec.-5:-Troubleshooting)
+
+* [Section 6: Adding Your own commands](https://github.com/SMARTlab-Purdue/ros-tutorial-voice/wiki/Sec.-6:-Adding-Your-own-commands)
 
 # Summary
 In this tutorial, we presented an introduction to controlling robot through the voice recognition and Text-to-Speech (TTS) using IBM Watson API.
