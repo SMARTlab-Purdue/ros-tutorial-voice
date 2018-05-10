@@ -46,8 +46,7 @@ http://files.ubuntu-manual.org/manuals/getting-started-with-ubuntu/14.04e2/en_US
 * [Section 4: Creating a light sensor plugin in Gazebo](https://github.com/SMARTlab-Purdue/ros-tutorial-gazebo-simulation/wiki/Sec.-4:-Creating-a-light-sensor-plugin)
 
 # Summary
-In this tutorial, we presented an introduction to using Gazebo simulation for robot navigation and control. Also, we saw how to create a custom robot with a custom sensor and able to publish the sensor outputs on ROS topics. 
+In this tutorial, we presented an introduction to controlling robot through the voice recognition and Text-to-Speech (TTS) using IBM Watson API.
 
-The tutorials are summarized and adapted from the sources mentioned in Section 2. We hope this tutorial will be helpful to anyone starting out with Gazebo and ROS.
 
 
