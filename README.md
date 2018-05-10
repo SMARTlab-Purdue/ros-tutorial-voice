@@ -11,25 +11,19 @@ Please watch the videos below to get an idea of what you can expect to achieve f
 
 https://youtu.be/DZRAPy7TteU>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DZRAPy7TteU/2.jpg)](https://youtu.be/DZRAPy7TteU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DZRAPy7TteU/0.jpg)](https://youtu.be/DZRAPy7TteU)
 
 
 # Credits
-This tutorial is prepared by Sangjun Lee (lee1424@purdue.edu) and Tamzidul Mina (tmina@purdue.edu).
+This tutorial is prepared by Manoj Penmetcha (mpenmetc@purdue.edu) and Yeonju Ho.
 
 The git repository is maintained by Ramviyas Parasuraman (ramviyas@purdue.edu).
 
 We acknowledge the following sources that were used to prepare this tutorial:
 
-- http://www.clearpathrobotics.com/assets/guides/ros/Drive%20a%20Husky.html
+Voice Recognition: http://jokla.me/robotics/speech-recognition-ros/
 
-- https://www.mathworks.com/examples/matlab-ro/mw/robotics_product-robotROSFeedbackControlExample-feedback-control-of-a-ros-enabled-robot
-
-- http://www.gazebosim.org/
-
-- http://sdformat.org/spec
-
-- http://www.theconstructsim.com/create-a-ros-sensor-plugin-for-gazebo/
+IBM TTS API: https://github.com/ArthurHlt/tts-watson-ros
 
 # Prerequisites
 
