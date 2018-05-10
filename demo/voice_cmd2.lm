@@ -1,0 +1,104 @@
+Language model created by QuickLM on Mon Apr  9 16:09:23 EDT 2018
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 13 sentences and 11 words
+
+\data\
+ngram 1=18
+ngram 2=33
+ngram 3=30
+
+\1-grams:
+-0.8768 </s> -0.3010
+-0.8768 <s> -0.2191
+-1.8062 BACK -0.2391
+-1.8062 BACKWARD -0.2391
+-1.8062 FORWARD -0.2391
+-2.1072 FULL -0.2942
+-2.1072 HALF -0.2942
+-2.1072 HALT -0.2391
+-1.8062 LEFT -0.2391
+-2.1072 METER -0.2391
+-1.8062 METERS -0.2391
+-1.2041 MOVE -0.2545
+-2.1072 ONE -0.2976
+-1.8062 RIGHT -0.2391
+-1.8062 SPEED -0.2391
+-2.1072 STOP -0.2391
+-2.1072 THREE -0.2942
+-2.1072 TWO -0.2942
+
+\2-grams:
+-1.5315 <s> BACK 0.0000
+-1.5315 <s> BACKWARD 0.0000
+-1.5315 <s> FORWARD 0.0000
+-1.5315 <s> FULL 0.0000
+-1.5315 <s> HALF 0.0000
+-1.5315 <s> HALT 0.0000
+-1.5315 <s> LEFT 0.0000
+-0.6284 <s> MOVE 0.0000
+-1.5315 <s> RIGHT 0.0000
+-1.5315 <s> STOP 0.0000
+-0.3010 BACK </s> -0.3010
+-0.3010 BACKWARD </s> -0.3010
+-0.3010 FORWARD </s> -0.3010
+-0.3010 FULL SPEED 0.0000
+-0.3010 HALF SPEED 0.0000
+-0.3010 HALT </s> -0.3010
+-0.3010 LEFT </s> -0.3010
+-0.3010 METER </s> -0.3010
+-0.3010 METERS </s> -0.3010
+-1.2041 MOVE BACK 0.0000
+-1.2041 MOVE BACKWARD 0.0000
+-1.2041 MOVE FORWARD 0.0000
+-1.2041 MOVE LEFT 0.0000
+-1.2041 MOVE ONE 0.0000
+-1.2041 MOVE RIGHT 0.0000
+-1.2041 MOVE THREE 0.0000
+-1.2041 MOVE TWO 0.0000
+-0.3010 ONE METER 0.0000
+-0.3010 RIGHT </s> -0.3010
+-0.3010 SPEED </s> -0.3010
+-0.3010 STOP </s> -0.3010
+-0.3010 THREE METERS 0.0000
+-0.3010 TWO METERS 0.0000
+
+\3-grams:
+-0.3010 <s> BACK </s>
+-0.3010 <s> BACKWARD </s>
+-0.3010 <s> FORWARD </s>
+-0.3010 <s> FULL SPEED
+-0.3010 <s> HALF SPEED
+-0.3010 <s> HALT </s>
+-0.3010 <s> LEFT </s>
+-1.2041 <s> MOVE BACK
+-1.2041 <s> MOVE BACKWARD
+-1.2041 <s> MOVE FORWARD
+-1.2041 <s> MOVE LEFT
+-1.2041 <s> MOVE ONE
+-1.2041 <s> MOVE RIGHT
+-1.2041 <s> MOVE THREE
+-1.2041 <s> MOVE TWO
+-0.3010 <s> RIGHT </s>
+-0.3010 <s> STOP </s>
+-0.3010 FULL SPEED </s>
+-0.3010 HALF SPEED </s>
+-0.3010 MOVE BACK </s>
+-0.3010 MOVE BACKWARD </s>
+-0.3010 MOVE FORWARD </s>
+-0.3010 MOVE LEFT </s>
+-0.3010 MOVE ONE METER
+-0.3010 MOVE RIGHT </s>
+-0.3010 MOVE THREE METERS
+-0.3010 MOVE TWO METERS
+-0.3010 ONE METER </s>
+-0.3010 THREE METERS </s>
+-0.3010 TWO METERS </s>
+
+\end\

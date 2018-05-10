@@ -1,0 +1,17 @@
+forward
+left
+right
+back
+backward
+stop
+move forward
+move right
+move left
+move back
+move backward
+halt
+half speed
+full speed
+move one meter
+move two meters
+move three meters
