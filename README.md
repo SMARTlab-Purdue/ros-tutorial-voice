@@ -15,7 +15,7 @@ https://youtu.be/DZRAPy7TteU>
 
 
 # Credits
-This tutorial is prepared by Manoj Penmetcha (mpenmetc@purdue.edu) and Yeonju Ho.
+This tutorial is prepared by Manoj Penmetcha (mpenmetc@purdue.edu) and Yeonju Oh.
 
 The git repository is maintained by Ramviyas Parasuraman (ramviyas@purdue.edu).
 
