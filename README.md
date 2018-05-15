@@ -9,7 +9,7 @@ E.g. Once the user ask the robot to "forward". The robot executes it and then se
 ## Demonstration video:
 Please watch the videos below to get an idea of what you can expect to achieve from this tutorial.
 
-https://youtu.be/DZRAPy7TteU
+https://youtu.be/EuSXkNL1Wi4
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EuSXkNL1Wi4/0.jpg)](https://youtu.be/EuSXkNL1Wi4)
 
