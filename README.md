@@ -11,7 +11,7 @@ Please watch the videos below to get an idea of what you can expect to achieve f
 
 https://youtu.be/DZRAPy7TteU
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DZRAPy7TteU/0.jpg)](https://youtu.be/DZRAPy7TteU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EuSXkNL1Wi4/0.jpg)](https://youtu.be/EuSXkNL1Wi4)
 
 
 # Credits
